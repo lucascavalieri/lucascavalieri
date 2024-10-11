@@ -10,6 +10,8 @@
 
 :outbox_tray: Goals for 2024: Find a new junior developer job.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 <!-- ## About me
 
 <!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](<[LINK_GIT](https://github.com/lucascavalieri)>) -->
