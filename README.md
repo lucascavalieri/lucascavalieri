@@ -18,7 +18,7 @@
 
 - Thanks for visiting.
 
---- --> -->
+--- -->
 
 <!-- *OBS onde está escrito em maiúsculo você deve escrever suas informações:
 
