@@ -5,11 +5,11 @@
 
   <p>:computer: I'm Front-End Developer!</p>
 
-  :house_with_garden: I’m from Brazil.
+  <p>:house_with_garden: I’m from Brazil.</p>
 
-  :books: I’m currently learning everything.
+  <p>:books: I’m currently learning everything.</p>
 
-  :outbox_tray: Goals for 2024: Find a new junior developer job.
+  <p>:outbox_tray: Goals for 2024: Find a new junior developer job.</p>
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascavalieri/)
 
