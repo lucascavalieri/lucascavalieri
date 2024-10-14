@@ -10,7 +10,7 @@
 
 :outbox_tray: Goals for 2024: Find a new junior developer job.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cavalieri/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascavalieri/)
 [![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasscavalieri/)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
