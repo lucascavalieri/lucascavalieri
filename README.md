@@ -27,7 +27,15 @@
 ![VS Code](https://img.shields.io/badge/Tool-VS_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Tool-Insomnia-323330?style=flat&logo=insomnia&logoColor=4000bf)&nbsp;
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+## ⚙️ Github Analytics
+
+<div>
+  <a href="https://github.com/lunpessoa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalieri&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <!-- <p align="center">![](https://raw.githubusercontent.com/lucascavalieri/github-stats-transparent/output/generated/languages.svg) </p> -->
 
 <!-- ## About me
