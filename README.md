@@ -11,7 +11,21 @@
 :outbox_tray: Goals for 2024: Find a new junior developer job.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascavalieri/)
-[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasscavalieri/)
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/Code-HTML-323330?style=flat&logo=html5)&nbsp;
+![Javascript](https://img.shields.io/badge/Code-Javascript-323330?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/Code-Typescript-323330?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/Code-React-323330?style=flat&logo=react)&nbsp;
+![React_Native](https://img.shields.io/badge/Code-React_Native-323330?style=flat&logo=react)&nbsp;
+![Mysql](https://img.shields.io/badge/DB-Mysql-323330?style=flat&logo=mysql)&nbsp;
+![CSS](https://img.shields.io/badge/Style-CSS-323330?style=flat&logo=css3&logoColor=blue)&nbsp;
+![Styled-Components](https://img.shields.io/badge/Style-Styled--Components-323330?style=flat&logo=styled-components)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Toolkit-Bootstrap-323330?style=flat&logo=bootstrap)&nbsp;
+![Git](https://img.shields.io/badge/Tool-Git-323330?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/Tool-VS_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
+![Insomnia](https://img.shields.io/badge/Tool-Insomnia-323330?style=flat&logo=insomnia&logoColor=4000bf)&nbsp;
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!-- <p align="center">![](https://raw.githubusercontent.com/lucascavalieri/github-stats-transparent/output/generated/languages.svg) </p> -->
