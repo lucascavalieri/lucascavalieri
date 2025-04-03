@@ -1,15 +1,13 @@
-<div align="center">
+<div>
   <h1>Welcome</h1>
 
   <h2>I'm Lucas Cavalieri!</h2>
 
-  <p>:computer: I'm Front-End Developer!</p>
+  <p>:computer: I'm Full-Stack Developer!</p>
 
   <p>:house_with_garden: I’m from Brazil.</p>
 
   <p>:books: I’m currently learning everything.</p>
-
-  <p>:outbox_tray: Goals for 2024: Find a new junior developer job.</p>
 
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascavalieri/)
 
@@ -26,14 +24,5 @@
   ![Bootstrap](https://img.shields.io/badge/Toolkit-Bootstrap-323330?style=flat&logo=bootstrap)&nbsp;
   ![Git](https://img.shields.io/badge/Tool-Git-323330?style=flat&logo=git)
   ![VS Code](https://img.shields.io/badge/Tool-VS_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
-  ![Insomnia](https://img.shields.io/badge/Tool-Insomnia-323330?style=flat&logo=insomnia&logoColor=4000bf)&nbsp;
-
-  ## ⚙️ Github Analytics
-
-  <div>
-    <a href="https://github.com/lucascavalieri">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalieri&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
 </div>
 
