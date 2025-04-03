@@ -45,12 +45,6 @@
 
 ---
 
-## ✨ Frase que me inspira
-
-> “Código limpo é como poesia que funciona.” – Robert C. Martin
-
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="coding cat gif">
 </div>
