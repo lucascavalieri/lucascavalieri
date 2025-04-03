@@ -1,28 +1,56 @@
-<div>
-  <h1>Welcome</h1>
+<h1 align="center">👋 Olá, eu sou o Lucas Cavalieri!</h1>
 
-  <h2>I'm Lucas Cavalieri!</h2>
+<p align="center">🚀 Desenvolvedor Full stack apaixonado por código e café ☕</p>
 
-  <p>:computer: I'm Full-Stack Developer!</p>
+---
 
-  <p>:house_with_garden: I’m from Brazil.</p>
+## 🧠 Sobre mim
 
-  <p>:books: I’m currently learning everything.</p>
+- 💼 Atualmente sou desenvolvedor na **Aspect Mídia**
+- 🔧 Sempre explorando novas tecnologias e boas práticas
+- 💡 Amo desafios que me tiram da zona de conforto
 
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascavalieri/)
+---
 
-  ## 🛠 Tech Stack
+## 🛠️ Minhas principais tecnologias
 
-  ![HTML](https://img.shields.io/badge/Code-HTML-323330?style=flat&logo=html5)&nbsp;
-  ![Javascript](https://img.shields.io/badge/Code-Javascript-323330?style=flat&logo=javascript)&nbsp;
-  ![Typescript](https://img.shields.io/badge/Code-Typescript-323330?style=flat&logo=typescript)&nbsp;
-  ![React](https://img.shields.io/badge/Code-React-323330?style=flat&logo=react)&nbsp;
-  ![React_Native](https://img.shields.io/badge/Code-React_Native-323330?style=flat&logo=react)&nbsp;
-  ![Mysql](https://img.shields.io/badge/DB-Mysql-323330?style=flat&logo=mysql)&nbsp;
-  ![CSS](https://img.shields.io/badge/Style-CSS-323330?style=flat&logo=css3&logoColor=blue)&nbsp;
-  ![Styled-Components](https://img.shields.io/badge/Style-Styled--Components-323330?style=flat&logo=styled-components)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Toolkit-Bootstrap-323330?style=flat&logo=bootstrap)&nbsp;
-  ![Git](https://img.shields.io/badge/Tool-Git-323330?style=flat&logo=git)
-  ![VS Code](https://img.shields.io/badge/Tool-VS_Code-323330?style=flat&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop" />
 </div>
 
+---
+
+## 🌍 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucascavalieri)  
+- 💻 [Portfólio](https://github.com/lucascavalieri)
+  
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascavalieri&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascavalieri&layout=compact&theme=dracula" />
+</div>
+
+---
+
+## ✨ Frase que me inspira
+
+> “Código limpo é como poesia que funciona.” – Robert C. Martin
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" alt="coding cat gif">
+</div>
